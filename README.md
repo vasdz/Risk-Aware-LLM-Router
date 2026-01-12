@@ -72,10 +72,9 @@ pip install -r requirements.txt
 python router_service.py
 text
 
-### Как обновить на GitHub:
-После того как замените текст в файле, выполните в терминале:
-
+### Финальный штрих (обновление на сервере)
+После того как замените текст, выполните:
 ```bash
 git add README.md
-git commit -m "Fix README structure"
+git commit -m "Final fix: cleanup README formatting"
 git push
