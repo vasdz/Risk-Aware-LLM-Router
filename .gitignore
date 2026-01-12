@@ -1,0 +1,8 @@
+models/
+runs/
+.venv/
+venv/
+__pycache__/
+*.jsonl
+*.bin
+*.pt
